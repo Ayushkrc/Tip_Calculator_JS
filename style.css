@@ -1,0 +1,32 @@
+body{
+    background-image: url("https://www.cypressgreen.in/blog/wp-content/uploads/2021/03/food.jpg");
+    background-size: cover;
+}
+
+#bill{
+    height: 800px;
+    width: 500px;
+    background-color: beige;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 1rem;
+}
+
+#bill h1{
+    text-align: center;
+}
+
+button{
+    padding: 1.6rem;
+    font-size: 1.6rem;
+    background-color: brown;
+    color: white;
+}
+#total{
+    text-align: center;
+    height: 100px;
+    width: 100%;
+    font-size: 1.4rem;
+}
